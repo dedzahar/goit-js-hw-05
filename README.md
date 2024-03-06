@@ -1,4 +1,4 @@
-It's homework from JavaScript module 4. How to check:
+It's homework from JavaScript module 5. How to check:
 
 1. Go to live page (url in section About)
 2. Open Developer tools console.
